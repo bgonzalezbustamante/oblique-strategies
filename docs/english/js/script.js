@@ -58,6 +58,27 @@ var quotes = [
 		year: "",
 		tags: "",
 	},
+	{
+		quote: "Be dirty",
+		source: "",
+		citation: "",
+		year: "",
+		tags: "",
+	},
+	{
+		quote: "Be extravagant",
+		source: "",
+		citation: "",
+		year: "",
+		tags: "",
+	},
+	{
+		quote: "Be less critical",
+		source: "",
+		citation: "",
+		year: "",
+		tags: "",
+	},
 ];
 
 function print(quote) {
