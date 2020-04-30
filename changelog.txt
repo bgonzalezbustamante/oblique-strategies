@@ -1,12 +1,23 @@
 # Changelog
 All notable changes to "Oblique Strategies" will be documented in this file.
 
+## [Released]
+
+## [1.0.0] - TBC
+
 ## [Unreleased]
 
-## [0.2.0] - 2020-04-25
+## [0.3.0] - TBC
+### Added
+- GitHub page powered by Jekyll.
+- Random strategies generator.
+
+## [0.2.0] - 2020-04-30
 ### Added
 - Fork of ptigas/oblique-strategies.
 - Draft of script.js with a sample of strategies.
+### Changed
+- Minor typesetting corrections in the changelog.
 
 ## [0.1.0] - 2020-04-25
 ### Added
