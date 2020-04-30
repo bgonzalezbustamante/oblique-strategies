@@ -3,9 +3,14 @@ All notable changes to "Oblique Strategies" will be documented in this file.
 
 ## [Unreleased]
 
+## [0.2.0] - 2020-04-25
+### Added
+- Fork of ptigas/oblique-strategies.
+- Draft of script.js with a sample of strategies.
+
 ## [0.1.0] - 2020-04-25
 ### Added
 - GitHub repository.
-- Changelog in TXT format at GitHub repository.
-- License CC-BY Attribution 4.0 International at GitHub repository.
+- Changelog in TXT format on GitHub repository.
+- License CC-BY Attribution 4.0 International on GitHub repository.
 - Shields.io badges in SVG.
