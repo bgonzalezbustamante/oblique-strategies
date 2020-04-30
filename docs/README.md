@@ -6,8 +6,8 @@
 
 This project presents a strategies generator based on a JavaScript object of a predesigned random quote generator ([see repository](https://github.com/b2point0h/random-quote-generator)). On the other hand, the strategies have been forked from this [GitHub repository](https://github.com/ptigas/oblique-strategies).
 
-- Oblique Strategies Generator in English
-- Oblique Strategies Generator in Spanish (forthcoming).
+- [**Oblique Strategies Generator in English**](https://bgonzalezbustamante.github.io/oblique-strategies/english/)
+- Oblique Strategies Generator in Spanish (*forthcoming*).
 
 ### About Me
 
