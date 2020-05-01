@@ -18,6 +18,7 @@ All notable changes to "Oblique Strategies" will be documented in this file.
 ## [0.2.1] - 2020-05-01
 ### Changed
 - Expansion of the sample of strategies (n = 30).
+- GitHub corner URL.
 
 ## [0.2.0] - 2020-04-30
 ### Added
