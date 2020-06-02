@@ -11,6 +11,10 @@ All notable changes to "Oblique Strategies" will be documented in this file.
 ### Added
 - Full script.js with strategies in Spanish.
 
+## [0.3.2] - 2020-06-02
+### Changed
+- Minor typesetting corrections in the changelog.
+
 ## [0.3.1] - TBC
 ### Added
 - Full script.js with strategies in English.
@@ -35,6 +39,6 @@ All notable changes to "Oblique Strategies" will be documented in this file.
 ## [0.1.0] - 2020-04-25
 ### Added
 - GitHub repository.
-- Changelog in TXT format on GitHub repository.
-- License CC-BY Attribution 4.0 International on GitHub repository.
+- Changelog in TXT format at GitHub repository.
+- License CC-BY Attribution 4.0 International at GitHub repository.
 - Shields.io badges in SVG.
