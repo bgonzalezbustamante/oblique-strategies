@@ -1,6 +1,6 @@
 ## Oblique Strategies
 
-[![version](https://img.shields.io/badge/version-v0.2.4-blue.svg)](https://github.com/bgonzalezbustamante/oblique-strategies/blob/master/changelog.txt) [![CC](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://github.com/bgonzalezbustamante/oblique-strategies/blob/master/LICENSE.txt) [![Java](https://img.shields.io/badge/Made%20with-JavaScript-yellow)](https://www.javascript.com/) [![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
+[![version](https://img.shields.io/badge/version-v0.2.4-blue.svg)](https://github.com/bgonzalezbustamante/oblique-strategies/blob/master/changelog.txt) [![issues](https://img.shields.io/badge/issues-3-yellow.svg)](https://github.com/bgonzalezbustamante/oblique-strategies/issues) [![CC](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://github.com/bgonzalezbustamante/oblique-strategies/blob/master/LICENSE.txt) [![Java](https://img.shields.io/badge/Made%20with-JavaScript-yellow)](https://www.javascript.com/) [![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 
 [Oblique Strategies](http://www.rtqe.net/ObliqueStrategies/index.html) is a cards method for improving creativity created by Brian Eno and Peter Schmidt in the seventies to encourage lateral thinking (*i.e.* solving problems using indirect reasoning).
 
