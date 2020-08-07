@@ -15,6 +15,10 @@ All notable changes to "Oblique Strategies" will be documented in this file.
 
 ## [Released]
 
+## [0.2.3] - 2020-08-07
+### Changed
+- Update of badges.
+
 ## [0.2.3] - 2020-06-16
 ### Changed
 - Revision of upgrade versioning.
