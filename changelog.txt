@@ -20,7 +20,7 @@ All notable changes to "Oblique Strategies" will be documented in this file.
 - GitHub page powered by Jekyll.
 ### Changed
 - Transfer to Summertown Lab.
-- Update of badges at GitHub repository.
+- Update of badges.
 
 ## [0.2.4] - 2020-08-07
 ### Changed
@@ -54,4 +54,4 @@ All notable changes to "Oblique Strategies" will be documented in this file.
 - GitHub repository.
 - Changelog in TXT format at GitHub repository.
 - License CC-BY Attribution 4.0 International at GitHub repository.
-- Shields.io badges in SVG.
+- Badges in SVG.
