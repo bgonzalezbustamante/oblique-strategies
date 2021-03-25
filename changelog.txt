@@ -15,11 +15,15 @@ All notable changes to "Oblique Strategies" will be documented in this file.
 
 ## [Released]
 
+## [0.3.5] - 2021-03-25
+### Changed
+- Revision of upgrade versioning.
+
 ## [0.3.4] - 2020-08-26
 ### Added
 - GitHub page powered by Jekyll.
 ### Changed
-- Transfer to Summertown Lab.
+- Transfer repository to Summertown Lab.
 - Update of badges.
 
 ## [0.2.4] - 2020-08-07
@@ -54,4 +58,4 @@ All notable changes to "Oblique Strategies" will be documented in this file.
 - GitHub repository.
 - Changelog in TXT format at GitHub repository.
 - License CC-BY Attribution 4.0 International at GitHub repository.
-- Badges in SVG.
+- Badges in SVG  at GitHub repository.
