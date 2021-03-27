@@ -18,6 +18,7 @@ All notable changes to "Oblique Strategies" will be documented in this file.
 ## [0.3.5] - 2021-03-25
 ### Changed
 - Revision of upgrade versioning.
+- Minor corrections.
 
 ## [0.3.4] - 2020-08-26
 ### Added
@@ -56,6 +57,6 @@ All notable changes to "Oblique Strategies" will be documented in this file.
 ## [0.1.0] - 2020-04-25
 ### Added
 - GitHub repository.
-- Changelog in TXT format at GitHub repository.
-- License CC-BY Attribution 4.0 International at GitHub repository.
-- Badges in SVG  at GitHub repository.
+- Changelog in TXT format on GitHub repository.
+- License CC-BY Attribution 4.0 International on GitHub repository.
+- Badges in SVG on GitHub repository.
